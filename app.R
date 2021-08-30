@@ -8,7 +8,6 @@ library(DT)
 library(cluster)
 library(ggplot2)
 library(devtools) 
-library(gganimate)
 library(gapminder)
 library(pheatmap)
 
